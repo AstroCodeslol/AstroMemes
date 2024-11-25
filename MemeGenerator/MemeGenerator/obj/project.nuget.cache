@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5Sv88VURTpG6PvFI2t2b4+N8vM/CadNwijJnWuH4xqTVuFpi+lFtYcAy3Ce8qHOJzOZBeOPXQ8t06i2/Mjn1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\MemeGenerator\\MemeGenerator\\MemeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
